@@ -11,6 +11,6 @@ Update contact and Delete contact. Database used for this appication is MSSQL
 
 ## How to run
 
-1. Clone project from (https://github.com/SnehaPatil/ContactManagement.git) the Repository.
+1. Clone project from (https://github.com/snehappatil93/ContactManagement.git) the Repository.
 2. Create the database and required table. Please refer the script given at location "ContactManagement.DL\SQL_Scripts\CreateDBAndTableScript.sql
 3. Start the Web Api (ContactManagement.Service) and MVC application (ContactMgmtClient).
